@@ -1,0 +1,9 @@
+# Core async and Telegram client
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# Optional: for SOCKS5 proxy support (used if PROXY_HOST/PROXY_PORT set)
+PySocks>=1.7.1
