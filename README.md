@@ -10,8 +10,8 @@ Supports automatic **4 GB uploads** for **Telegram Premium** accounts when using
 - 📁 Send any file (up to 2 GB with bot, 4 GB with premium user session)
 - 🧠 Automatically detects if user account is premium
 - 🔁 Falls back to a user account if the bot can’t reach the recipient
-- 🧩 `.env` configuration support
+- 🧩 `config.env` configuration support
 - 🔒 Safe to publish: uses `.env.example` (never expose secrets)
 - 🧰 CLI-friendly with `argparse`
   ```bash
-  python send.py --file ffmpeg.exe --owner 8405296129
+  python send.py --file file.zip --owner 8405296129
