@@ -39,7 +39,7 @@ A secure, lightweight Python utility to send files over Telegram using a **bot**
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ibrahim200806/TG_Uploader](https://github.com/ibrahim200806/TG_Uploader).git
+   git clone https://github.com/ibrahim200806/TG_Uploader.git
    cd TG_Uploader
 Copy example env and edit:
 
